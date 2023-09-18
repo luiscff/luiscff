@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís</h1>
-<h3 align="center">Currently in the second year of Software Engineering @ University of Minho</h3>
+<h3 align="center">Currently in the third year of Software Engineering @ University of Minho</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
