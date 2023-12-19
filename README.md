@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luís</h1>
 <h4 align="center">Currently in the third year of Software Engineering @ University of Minho</h4>
 
-<br/><br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luiscff&label=Profile%20views&color=0e75b6&style=flat" alt="luiscff" /> </p>
 
 
 <div align="center">
@@ -28,10 +28,15 @@
   </p>
 </div>
 
-<br/><br/>
 
 <div align="center">
   <h3> My stats: </h3>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiscff&theme=onestar" alt="luiscff" /></a> </p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscff&show_icons=true&theme=transparent&locale=en" alt="luiscff" /></p>
 </div>
+
+
+<div align="center">
+  <h3> My Trophies: </h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiscff&no-bg=true&theme=onestar&title=Commits,Experience,PullRequest,Repositories&column=4" alt="luiscff" /></a> 
+</div>
+ 
