@@ -30,12 +30,6 @@
 
 
 <div align="center">
-  <h3> My stats: </h3>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscff&show_icons=true&theme=transparent&locale=en" alt="luiscff" /></p>
-</div>
-
-
-<div align="center">
   <h3> My Trophies: </h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiscff&no-bg=true&theme=onestar&title=Commits,Experience,PullRequest,Repositories&column=4" alt="luiscff" /></a> 
 </div>
